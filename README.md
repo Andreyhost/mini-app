@@ -7,3 +7,4 @@ Go to created folder and run:
 "# MINI-APP-VK" 
 "# gjg" 
 # mini-app123
+# mini-app123
