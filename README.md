@@ -4,3 +4,4 @@ Go to created folder and run:
 `yarn run build` or `npm run build` to build production bundle, with tree-shaking, uglify and all this modern fancy stuff.
 "# mini-app" 
 "# MINI-APP-VK" 
+"# MINI-APP-VK" 
