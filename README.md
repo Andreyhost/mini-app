@@ -5,3 +5,4 @@ Go to created folder and run:
 "# mini-app" 
 "# MINI-APP-VK" 
 "# MINI-APP-VK" 
+"# gjg" 
